@@ -1,0 +1,10 @@
+hejmeddig.conf package
+======================
+
+Module contents
+---------------
+
+.. automodule:: hejmeddig.conf
+   :members:
+   :undoc-members:
+   :show-inheritance:

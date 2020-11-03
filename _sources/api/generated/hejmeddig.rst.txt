@@ -1,0 +1,31 @@
+hejmeddig package
+=================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 10
+
+   hejmeddig.conf
+   hejmeddig.telemetry
+   hejmeddig.tests
+
+Submodules
+----------
+
+hejmeddig.hello\_world module
+-----------------------------
+
+.. automodule:: hejmeddig.hello_world
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: hejmeddig
+   :members:
+   :undoc-members:
+   :show-inheritance:
